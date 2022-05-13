@@ -1,3 +1,4 @@
 [submodule "testsubmodules2"]
 	path = testsubmodules2
 	url = ../testsubmodules2.git
+	branch = main
